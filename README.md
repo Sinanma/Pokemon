@@ -1,4 +1,4 @@
-# Starter folder
+# An analysis of Pokemon data
 
 ## Overview
 
