@@ -1,13 +1,12 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Age and Gender Dynamics in Traffic Accidents: A 2019 Canadian Case Study"
 author: 
   - First author
   - Another author
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This study investigates the influence of age and gender on traffic accident rates and outcomes across Canada in 2019. Utilizing a comprehensive dataset from Canadian traffic authorities, which includes detailed records of traffic incidents categorized by demographic markers, this analysis seeks to identify patterns and disparities in traffic-related injuries and fatalities. Preliminary findings indicate significant variations in accident rates among different age groups, with young adults (ages 18-25) and seniors (ages 65+) experiencing higher rates of serious accidents. Additionally, males were disproportionately involved in severe traffic accidents compared to females. Statistical methods, including logistic regression and chi-square tests, were employed to assess the correlation between demographic factors and accident severity, controlling for confounding variables such as time of day and geographic location. The results highlight critical areas for targeted interventions and suggest that age-specific and gender-responsive traffic safety programs could substantially enhance road safety. These findings underscore the necessity for policymakers to consider demographic characteristics when designing traffic laws and safety measures, thereby contributing to more effective management of road safety and reduction of traffic-related casualties."
 format: pdf
 number-sections: true
 bibliography: references.bib
